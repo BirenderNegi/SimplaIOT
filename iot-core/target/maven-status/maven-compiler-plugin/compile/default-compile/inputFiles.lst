@@ -1,0 +1,17 @@
+E:\simpla_workspace\simpla-llc-iot\iot\iot-core\src\main\java\com\simpla\iot\core\model\Role.java
+E:\simpla_workspace\simpla-llc-iot\iot\iot-core\src\main\java\com\simpla\iot\core\model\SensorDataType.java
+E:\simpla_workspace\simpla-llc-iot\iot\iot-core\src\main\java\com\simpla\iot\core\dto\OrganizationUserDTO.java
+E:\simpla_workspace\simpla-llc-iot\iot\iot-core\src\main\java\com\simpla\iot\core\model\UserAccess.java
+E:\simpla_workspace\simpla-llc-iot\iot\iot-core\src\main\java\com\simpla\iot\core\model\Organization.java
+E:\simpla_workspace\simpla-llc-iot\iot\iot-core\src\main\java\com\simpla\iot\core\model\SensorData.java
+E:\simpla_workspace\simpla-llc-iot\iot\iot-core\src\main\java\com\simpla\iot\core\dto\LoginDetailsDTO.java
+E:\simpla_workspace\simpla-llc-iot\iot\iot-core\src\main\java\com\simpla\iot\core\model\UserDevice.java
+E:\simpla_workspace\simpla-llc-iot\iot\iot-core\src\main\java\com\simpla\iot\core\repository\LoginDetailsRepository.java
+E:\simpla_workspace\simpla-llc-iot\iot\iot-core\src\main\java\com\simpla\iot\core\repository\OrganizationRepository.java
+E:\simpla_workspace\simpla-llc-iot\iot\iot-core\src\main\java\com\simpla\iot\core\repository\RoleRepository.java
+E:\simpla_workspace\simpla-llc-iot\iot\iot-core\src\main\java\com\simpla\iot\core\model\UserDetails.java
+E:\simpla_workspace\simpla-llc-iot\iot\iot-core\src\main\java\com\simpla\iot\core\model\DeviceDetails.java
+E:\simpla_workspace\simpla-llc-iot\iot\iot-core\src\main\java\com\simpla\iot\core\model\DevicePinSensorConf.java
+E:\simpla_workspace\simpla-llc-iot\iot\iot-core\src\main\java\com\simpla\iot\core\repository\UserDetailsRepository.java
+E:\simpla_workspace\simpla-llc-iot\iot\iot-core\src\main\java\com\simpla\iot\core\model\GroupDetails.java
+E:\simpla_workspace\simpla-llc-iot\iot\iot-core\src\main\java\com\simpla\iot\core\model\LoginDetails.java

@@ -1,0 +1,4 @@
+com\simpla\iot\ui\common\Messages.class
+com\simpla\iot\ui\common\UIConstants.class
+com\simpla\iot\ui\controller\OrganizationController.class
+com\simpla\iot\ui\controller\LoginController.class
